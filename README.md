@@ -4,7 +4,7 @@
 
 **FREE** `isdev.me` subdomain for personal websites, open-source projects and more. Get your own short subdomain now!<br><br>
 
-[![](https://img.shields.io/badge/license-MIT-%23EFEFEF?style=flat-square&logoColor=white&labelColor=black)](/LICENSE)
+[![](https://img.shields.io/badge/license-MIT-%23EFEFEF?style=flat-square&logoColor=white&labelColor=black)](/License)
 [![](https://img.shields.io/badge/Donate-for%20registrar%20fees-%23FF96EE?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=black)](https://isdev.me)
 
 **FOR ANY ISSUE** - admin@isdev.me
