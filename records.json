@@ -1,5 +1,7 @@
 # Subdomain Records for isdev.me
-
-## admin.isdev.me
-- **Type**: CNAME
-- **Target**: cname.vercel-dns.com
+{
+  "admin.isdev.me": {
+    "type": "CNAME",
+    "target": "razinrayees.netlify.app",
+  },
+}
