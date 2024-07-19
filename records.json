@@ -1,0 +1,5 @@
+# Subdomain Records for isdev.me
+
+## admin.isdev.me
+- **Type**: CNAME
+- **Target**: cname.vercel-dns.com
