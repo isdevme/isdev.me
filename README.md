@@ -21,4 +21,4 @@
 7. 📄 We support many types of records (A, AAAA, CNAME, MX, TXT)
 8. 🥰 Make a Pull Request to this repo.
 
-If everything is fine, your Pull Request will be merged within 3 days, and you can enjoy your subdomain after 1~10 minutes (for the DNS record to update) after that.  
+If everything is fine, your Pull Request will be merged within 3 days, and you can enjoy your subdomain after 1~10 minutes (for the DNS record to update) after that.
